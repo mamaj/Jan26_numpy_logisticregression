@@ -9,4 +9,4 @@ https://utoronto.zoom.us/rec/share/7L29_fWVClsQHMRlka0cqV09cSRhydPkEeTmCAixRajAf
 ## Logistic Regression and Hints on Implementations
 
 Link to the video recording:
-
+https://utoronto.zoom.us/rec/share/H3tJlyyXVOCsCH-BmlQx20x6njjCPmeKtzj2Uk4CtbcMT8y9k9dzu-Po6jDAtDos.1afzff1OpV3WAZiL?startTime=1643406061000 (Passcode: %J?!v@S8DZ)
